@@ -136,8 +136,6 @@ Extra for Powershell:
 
 Regex: 
 ```bash
-#regex='(\d+\.\d+\.\d+\.\d+)\s+(\w+|-)\s+([a-zA-z-]+|-)\s+\[(\d{2}\/[A-Za-z]{3}\/\d{4}:\d{2}:\d{2}:\d{2}\s+\+0800)\]\s+"([A-Z]+)\s+([^ ]+)\s+(HTTP\/[0-9]\.[0-9])"\s+([0-9]{3})\s+([0-9]+)\s+(\W+)\s+"(.*)"'
-
 log_line='111.111.111.111 - - [29/Jun/2025:16:24:00 +0800] "GET /api/v1 HTTP/2.0" 200 408 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"'
 regex='^([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+) ([^ ]+) ([^ ]+) \[([^]]+)\] \"([A-Z]+) ([^\"]+) (HTTP\/[0-9.]+)\" ([0-9]{3}) ([0-9]+) \"([^\"]*)\" \"(.*)\"$'
 
@@ -235,3 +233,7 @@ Accessing the site (the site already has an SSL certificate so an SSL mismatch w
 ![image](https://github.com/user-attachments/assets/65d592df-4a09-428b-8e5a-d470924a9a93)
 
 ![image](https://github.com/user-attachments/assets/b2dec7a8-a7f5-439d-80bf-cde342baed69)
+
+# Lab 4 - More Scripting
+
+Enhanced script
