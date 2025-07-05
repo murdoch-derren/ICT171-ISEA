@@ -1,0 +1,27 @@
+2025-07-06T10:51:21: Compression failed. Error message: 1
+2025-07-06T10:56:28: Compression failed.
+2025-07-06T10:57:07: backup-folder compressed to backup-folder.tar.gz.
+2025-07-06T10:58:41: backup-folder compressed to 2025-07-06_105841.tar.gz.
+2025-07-06T11:00:00: backup-folder/ compressed to backup-folder/-2025-07-06_110000.tar.gz.
+2025-07-06T11:03:10: backup-folder/ compressed to 2025-07-06_110310.tar.gz.
+2025-07-06T11:08:03: backup-folder/ compressed to /root/backup-script/b/2025-07-06_110803.tar.gz.
+2025-07-06T11:18:19: No file or folder was specified for the backup.
+2025-07-06T11:19:35: No file or folder was specified for the backup.
+2025-07-06T11:19:51: No file or folder was specified for the backup.
+2025-07-06T11:20:13: No file or folder was specified for the backup.
+2025-07-06T11:20:22: No file or folder was specified for the backup.
+2025-07-06T11:20:23: No file or folder was specified for the backup.
+2025-07-06T11:20:23: No file or folder was specified for the backup.
+2025-07-06T11:20:30: backup-folder/ compressed to /root/backup-script/b/2025-07-06_112030.tar.gz.
+2025-07-06T11:20:30: Uploading backup-folder/ to ec2-18-139-222-52.ap-southeast-1.compute.amazonaws.com.
+2025-07-06T11:20:30: Upload failed.
+2025-07-06T11:22:19: WARNING: Private key for ec2-18-139-222-52.ap-southeast-1.compute.amazonaws.com not found!
+2025-07-06T11:22:19: No file or folder was specified for the backup.
+2025-07-06T11:25:40: No file or folder was specified for the backup.
+2025-07-06T11:25:46: backup-folder/ compressed to /root/backup-script/b/2025-07-06_112546.tar.gz.
+2025-07-06T11:25:46: Uploading backup-folder/ to ec2-18-139-222-52.ap-southeast-1.compute.amazonaws.com.
+2025-07-06T11:25:46: backup-folder/ uploaded to ec2-18-139-222-52.ap-southeast-1.compute.amazonaws.com.
+2025-07-06T11:26:48: No file or folder was specified for the backup.
+2025-07-06T11:26:53: backup-folder/ compressed to /root/backup-script/b/2025-07-06_112653.tar.gz.
+2025-07-06T11:26:53: Uploading backup-folder/ to ec2-18-139-222-52.ap-southeast-1.compute.amazonaws.com.
+2025-07-06T11:26:53: backup-folder/ uploaded to ec2-18-139-222-52.ap-southeast-1.compute.amazonaws.com.
